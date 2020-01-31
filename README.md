@@ -6,9 +6,9 @@ Junior Gold Miners ETF (GDXJ) and on the The VelocityShares Daily Inverse VIX Sh
 phenomenal returns in back-testing on Quantopian
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "MACD on GDXJ Returns")
+![Alt text](https://github.com/BambooFlower/MACD-Strategy/blob/master/Returns/MACD%20on%20GDXJ%20Returns.png "MACD on GDXJ Returns")
 
-![Alt text](/relative/path/to/img.jpg?raw=true "MACD on XIV Returns")
+![Alt text](https://github.com/BambooFlower/MACD-Strategy/blob/master/Returns/MACD%20on%20XIV%20Returns.png "MACD on XIV Returns")
 
 
 
