@@ -1,9 +1,9 @@
-# MACD-Strategy
+# MACD Strategy
 
 This is a basic Python implementation of a MACD strategy. A Moving Average Convergence Divergence (MACD) strategy is a trend-following 
 momentum indicator that shows the relationship between two moving averages of a security’s price. By Applying this startegy on VanEck Vectors
 Junior Gold Miners ETF (GDXJ) and on the The VelocityShares Daily Inverse VIX Short-Term exchange-traded note (XIV), we were able to obtain 
-phenomenal returns in back-testing 
+phenomenal returns in back-testing on Quantopian
 
 
 
