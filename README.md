@@ -24,6 +24,9 @@ For more information on GDXJ: https://www.bloomberg.com/quote/GDXJ:US
 For more information on XIV: https://www.bloomberg.com/quote/XIV:US
 
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 Please note that the XIV index closed on February 20 2018, and remains closed at time of writing  
 
