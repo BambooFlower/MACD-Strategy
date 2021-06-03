@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/BambooFlower" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 # MACD Strategy
 
 This is a basic Python implementation of a MACD strategy. A Moving Average Convergence Divergence (MACD) strategy is a trend-following 
